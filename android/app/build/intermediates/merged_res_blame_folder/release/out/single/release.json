@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_offer.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_offer.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_graph.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_graph.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img5.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img5.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_ob2.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_ob2.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img3.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img3.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img1.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img1.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_ob3.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_ob3.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img6.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img6.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.voyage.app-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_splashscreen.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_splashscreen.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_bg.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_bg.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_ob1.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_ob1.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img4.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img4.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_img2.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_img2.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_background.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_background.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_assets_images_welcomescreen.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/assets_images_welcomescreen.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.voyage.app-res-31:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.voyage.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.voyage.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
